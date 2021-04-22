@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Participation_12._2_Interest_Calculator_with_functions</RootNamespace>
+  </PropertyGroup>
+
+</Project>
